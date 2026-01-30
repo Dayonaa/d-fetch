@@ -1,8 +1,8 @@
 [project]
-name = "d-fetch"
+name = "dfetch-cli"
 version = "0.0.1"
-description = "Fast multi-connection downloader by Dayona"
-authors = [{ name = "dayonaa", email = "arifadayona@gmail.com" }]
+description = "Fast multi-connection downloader"
+authors = [{ name = "Dayona", email = "arifadayona@gmail.com" }]
 requires-python = ">=3.10"
 dependencies = [
     "httpx",

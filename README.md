@@ -4,6 +4,7 @@
 
 [![CI Status](https://github.com/dayonaa/d-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/dayonaa/d-fetch/actions/workflows/ci.yml)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![PyPI version](https://img.shields.io/pypi/v/dfetch-cli.svg)](https://pypi.org/project/dfetch-cli/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## Key Features
