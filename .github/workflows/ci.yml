@@ -46,7 +46,7 @@ jobs:
     needs: [test, lint]
     runs-on: ubuntu-latest
     # only run this job on pushes to main branch
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
 
     # add permissions for publishing
     permissions:
