@@ -2,7 +2,7 @@
 
 **D-Fetch** is a high-speed, multi-connection downloader engine built with Python. Developed by **Dayona** to provide a fast and efficient download experience.
 
-[![CI](https://github.com/dayonaa/d-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/dayonaa/d-fetch/actions/workflows/ci.yml)
+[![CI Status](https://github.com/dayonaa/d-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/dayonaa/d-fetch/actions/workflows/ci.yml)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -223,7 +223,6 @@ This project uses GitHub Actions for continuous integration and deployment. The 
 - **Testing**: Runs tests on Python 3.10, 3.11, and 3.12
 - **Linting**: Basic code quality checks with ruff (E/F rules)
 - **Building**: Package building verification
-- **Publishing**: Automatic PyPI publishing on main branch pushes (requires PYPI_API_TOKEN secret)
 
 To set up PyPI publishing:
 
