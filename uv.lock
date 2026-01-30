@@ -44,7 +44,7 @@ wheels = [
 ]
 
 [[package]]
-name = "d-fetch"
+name = "dfetch-cli"
 version = "0.0.1"
 source = { editable = "." }
 dependencies = [

@@ -105,7 +105,7 @@ class RegularDownloader:
                     print(f"◈ {get_message('FORCE_MODE')}")
                 elif full_path.exists():
                     print(
-                        f"✅ {get_message('TX_SUCCESS')}\n📍 {get_message('FILE_EXISTS')}"
+                        f"✅ {get_message('TX_SUCCESS')}\n{get_message('FILE_EXISTS')}"
                     )
                     return
 
