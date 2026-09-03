@@ -297,3 +297,6 @@ d-fetch/
 ```
 
 ---
+
+
+<!-- Security scan triggered at 2026-09-03 21:50:56 -->
